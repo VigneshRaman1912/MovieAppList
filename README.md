@@ -1,8 +1,8 @@
-# React + Vite
+Clone the Project
+Open the terminal and run the command npm i
+We can directly run the project using npm run dev command 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Incase if the api is blocked I am using the dummy json to display movie result ,
+can the the api piece on code in App.jsx folder.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+For store React-redux has been used
