@@ -1,0 +1,21 @@
+.buttonDiv {
+    display: flex;
+    padding: 10px 10px 30px;
+    justify-content: space-evenly;
+}
+.buttons-notSelected {
+    min-width: 6rem;
+    padding: 5px;
+    border-radius: 20px;
+    border: 1px solid white;
+    background-color: black;
+    color: white;
+}
+.buttons-Selected {
+    min-width: 6rem;
+    padding: 5px;
+    border-radius: 20px;
+    border: 1px solid black;
+    background-color:white;
+    color: black;
+}
